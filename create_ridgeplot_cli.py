@@ -71,7 +71,7 @@ def plot_ridge_plot(returns, output_path, file_name, y_spacing):
     plt.subplots_adjust(left=0.1, right=0.9, top=0.9, bottom=0.25)
 
     # Save the figure
-    output_file = os.path.join(output_path, file_name)
+    output_file = os.path.join(output_path, f"{datetime.now().strftime('%Y-%m-%d')}_{file_name}")
     plt.tight_layout()
     plt.savefig(output_file, dpi=300, bbox_inches="tight")
     print(f"Ridge plot saved to: {output_file}")
