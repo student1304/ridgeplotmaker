@@ -7,7 +7,7 @@ This project generates a **Ridge Plot** from a returns DataFrame stored in a pic
 
 ## Ridgeplot of Return Distributions
 
-[Ridgeplot Image](./output/2024-12-16_chart5.png)
+![Ridgeplot Image](./output/2024-12-16_chart5.png)
 
 
 ## Installation
