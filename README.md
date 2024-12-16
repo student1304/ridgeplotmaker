@@ -5,6 +5,11 @@ This project generates a **Ridge Plot** from a returns DataFrame stored in a pic
 
 ---
 
+## Ridgeplot of Return Distributions
+
+[Ridgeplot Image](./output/2024-12-16_chart5.png)
+
+
 ## Installation
 
 To set up the project, follow these steps:
@@ -136,7 +141,3 @@ The project requires the following Python libraries:
 Ensure they are installed via `requirements.txt`.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
