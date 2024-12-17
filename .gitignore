@@ -1,3 +1,4 @@
 # python gitignore
 # Python-related patterns
 __pycache__, .pytest_cache, .tox, .venv, .eggs, dist, builds, docs, mkspec, pyz, pyc, pyo, pyd, sdist
+.venv/
