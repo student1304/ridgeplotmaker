@@ -35,7 +35,7 @@ To set up the project, follow these steps:
    uv pip install -r requirements.txt
    ```
 
-   In case you don't hav `uv` installed yet, go get it [here](https://docs.astral.sh/uv/getting-started/installation/) first.
+   In case you don't have `uv` installed yet, go get it [here](https://docs.astral.sh/uv/getting-started/installation/) first.
 
 ---
 
